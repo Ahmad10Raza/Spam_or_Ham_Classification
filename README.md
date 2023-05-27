@@ -1,7 +1,7 @@
 # Spam_or_Ham_Classification
 
-<hr></hr>
-## **Description:**
+
+# **Description:**
 * **Spam or ham classification is the process of automatically identifying whether an email message is spam or ham. Spam is unsolicited commercial email, while ham is any other type of email. Spammers use a variety of techniques to try to trick people into opening their emails, such as using deceptive subject lines, including attachments, and using personal information. Spam can be a nuisance and can also be a security risk, as it can contain malware or phishing links.**
 
 * **Spam or ham classification is a challenging problem, as spam messages are constantly evolving. However, with the right machine learning algorithm and a large enough training dataset, it is possible to achieve high accuracy in spam or ham classification.**
@@ -13,7 +13,6 @@ Here are some of the benefits of spam or ham classification:
 * **Frees up users' time so they can focus on more important tasks**
 * **Here are some of the challenges of spam or ham classification:**
 
-<hr>/<hr>
 
 ## 2.2 Datasets Summary:
 - Here are the information features of the dataset:
